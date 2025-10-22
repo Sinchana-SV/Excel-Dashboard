@@ -1,4 +1,4 @@
-##  💰 Sales Performance Dashboard (Bicycle Shop)
+##  💰 [Sales Performance Dashboard (Bicycle Shop)](https://github.com/Sinchana-SV/Excel-Dashboard/blob/main/Bicycle%20Sales/Sales%20Excel%20Dashboard.png)
 
 ### 🔍 Overview
 
