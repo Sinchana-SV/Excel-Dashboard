@@ -4,7 +4,7 @@ This repository showcases two interactive Excel dashboards built from real-world
 
 ---
 
-## 1. 🎬 [Netflix Dataset Dashboard](https://github.com/Sinchana-SV/Excel-Dashboard/blob/main/Netflix/Netflix%20Excel%20Dashboard.png)
+## 1. 🎬 [Netflix](https://github.com/Sinchana-SV/Excel-Dashboard/blob/main/Netflix/Netflix%20Excel%20Dashboard.png)
 
 ---
 
@@ -33,7 +33,7 @@ This dashboard provides a deep dive into Netflix’s global catalog of movies an
 
 ---
 
-## 2. 💰 [Sales Performance Dashboard (Bicycle Shop)](https://github.com/Sinchana-SV/Excel-Dashboard/blob/main/Bicycle%20Sales/Sales%20Excel%20Dashboard.png)
+## 2. 💰 [Bicycle Shop-Sales Performance](https://github.com/Sinchana-SV/Excel-Dashboard/blob/main/Bicycle%20Sales/Sales%20Excel%20Dashboard.png)
 
 ### 🔍 Overview
 
